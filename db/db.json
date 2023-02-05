@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "name": "milad",
+      "email": "mimodi@gmail.com",
+      "gender": "male",
+      "nationality": "IR",
+      "password": "123",
+      "passwordconfirmation": "123",
+      "id": 1
+    }
+  ]
+}
